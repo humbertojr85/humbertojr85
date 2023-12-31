@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @humbertojr85
-- 👀 I’m interested in ...
+- 👋 Olá, Sou @humbertojr85
+- 👀 No momento estou procurando um estagio ou vaga como programador Jr.
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me humbertojr_pe@hotmail.com
+- Sou novo por aqui, então no que poder me ajudar eu aceito.
+- 📫 Meu E-mail humbertojr_pe@hotmail.com
 
 <!---
 humbertojr85/humbertojr85 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
