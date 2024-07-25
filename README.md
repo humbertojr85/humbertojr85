@@ -1,6 +1,4 @@
 - 👋 Olá, Sou @humbertojr85
-- 👀 No momento estou procurando um estagio ou vaga como programador Jr.
-- 🌱 I’m currently learning ...
 - Sou novo por aqui, então no que poder me ajudar eu aceito.
 - 📫 Meu E-mail humbertojr_pe@hotmail.com
 
