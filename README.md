@@ -1,8 +1,3 @@
-Ótima ideia! Seu perfil no GitHub pode ser um grande diferencial para atrair recrutadores. Vamos transformá-lo em algo mais profissional e chamativo.  
-
-### **1. Melhorando a Bio do Perfil**  
-Vamos criar um texto mais atrativo para seu perfil no GitHub:  
-
 ```markdown
 # 👋 Olá, eu sou Humberto Alcântara!  
 
